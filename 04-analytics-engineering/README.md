@@ -18,7 +18,7 @@ The prerequisites depend on which setup path you choose:
 - No prerequisites! The local setup guide will walk you through downloading and loading the data.
 
 > [!NOTE]
-> This module focuses on **yellow and green taxi data** (2019-2020). While Module 3 may have included FHV data, it is not used in this dbt project.
+> This module focuses on **yellow and green taxi data** (2019-2020). While Module 3 may have included other years data, it is not used in this dbt project.
 
 ## Setting up your environment
 
